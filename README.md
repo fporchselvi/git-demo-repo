@@ -5,6 +5,6 @@ Some description!
 
 Watch tutorial on YouTube.
 
-## local development
+## Local Development
 
 1. Open index.html in your browser
